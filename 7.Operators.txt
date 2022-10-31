@@ -1,0 +1,41 @@
+
+****Operators****
+
+7 + 8 = 15 , Here 7 and 8 are operands ,
+'+' is a operator , and 15 is result.
+
+
+Types of Operators :~
+
+1. Arithematic Operator { + , - , * , / , % , ++ }.
+
+2. Assignment Operator { = , += , -= , *= , /= , %= }.
+
+3. Comparision / Relational Operator { == , >= , <= , < , > , != }.
+
+4. Logical Operator { && , || , ! }.
+
+&& =>> LOgical And.
+|| =>> Logical OR.
+! =>> Logical NOT.
+
+
+
+
+
+5. Bitwise Operator { & , ~ , << , >> , >>> , ^ }. :~
+
+~  =>> Bitwise Complement.
+<< =>> Left Shift.
+>> =>> Right Shift.
+>>>  =>> Unsigned Right Shift.
+& =>> Bitwise And.
+^ =>> Bitwise Exclusive OR.
+
+
+
+
+
+
+6. Unary Operator { + , - , ++ , -- , ! }
+

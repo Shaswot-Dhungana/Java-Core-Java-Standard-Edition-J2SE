@@ -1,0 +1,50 @@
+
+
+ Constructor is a Special Type
+ of Method/Function whose name
+ is same as Class Name..
+
+ Constructor donot contain
+ any return Type including
+ Void..
+
+ Every Java Class Has a Default Constructor ,
+ it can be replaced by user-Defined 
+ Constructor...
+
+The main purpose of constructor is 
+to initialize the object..
+
+
+A constructor is automatically 
+called at the time of object 
+creation.
+
+
+There Are 4 Types of Constructor in Java.
+They are :~
+
+1. Private Constructor : In Java It is possible to write 
+a constructor as Private but according to the 
+rule we cannot access Private Members outside 
+of Class.
+
+
+
+2. Default Constructor : A constructor which donot have
+any parameter is known as Default Constructor.
+
+
+3. Parameterized Constructor : A Constructor through Which we can
+pass one or more parameters is known as Parameterized Constructor.
+
+
+
+4. Copy Constructor : Whenever we pass Object reference to the
+Constructor then it is known as Copy Constructor.
+
+
+
+
+
+ 

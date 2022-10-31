@@ -1,0 +1,17 @@
+
+REsulting Data Type after arithematic operations.
+       
+    byte + string = integer
+    string + integer = integer
+    long + float = float 
+    integer + float = float
+    char + int = integer
+    char + string = integer
+    long + double = double
+    float + double = double
+
+
+
+  
+        
+

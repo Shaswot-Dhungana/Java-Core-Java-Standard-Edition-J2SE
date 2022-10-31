@@ -1,0 +1,34 @@
+
+Abstract Class {Implementation Hiding} :~ A class which contains 
+the abstract keyword in its declaration is
+known as abstract class.
+
+
+Note :~
+
+1. We cannot create object for Abstract Class so 
+   we create its reference.
+
+
+2. It may or maynot contain abstract methods.
+
+
+3. It can Have abstract and non-abstract 
+   methods.
+
+
+4. To use an abstract class you have to 
+   inherite it from sub-Class.
+
+5. If a class contain partial implementation
+   then we should declare a class as abstract 
+   class.
+
+6. If abstract methods is there inside a class
+   then it is compulsory to declare that class
+   as abstract class..
+
+
+
+
+

@@ -1,0 +1,17 @@
+
+Encapsulation {Information Hiding} :~ Encapsulation is a mechanism
+through which we can bind the data members 
+and member methods in a single unit.
+
+
+Encapsulation = Data Hiding + Abstraction
+
+Note :
+1. Declare class variables as Private.
+2. Declare class methods/Functions  as Public.
+
+
+Example :~ Class is the best example of 
+            Encapsulation if variables of that class 
+            are Private.
+            

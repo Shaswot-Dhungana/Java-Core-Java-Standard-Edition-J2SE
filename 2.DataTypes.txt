@@ -1,0 +1,33 @@
+
+     Primitive DAta Types :-
+     
+     1. Integral Data Type :~
+
+ i. Byte : value ranges from -128 to 127,
+               Takes 1 byte, Default Vlue is 0.
+
+  ii. int : Takes 4 bytes , Default Value is 0.
+
+iii. Short : Takes 2 bytes , Default Value is 0.
+
+iv. long : Takes 8 bytes , Default Value is 0 .
+
+
+2. Floats / Decimals :~
+
+i. Float : Takes 4 bytes , Default Value is 0.0f .
+
+ii. Double : Takes 8 bytes , Default Value is 0.0d .
+
+
+
+3. char : Takes 2 bytes , Default Value is 0 .
+
+
+
+4. boolean : Value can be true or false , 
+          size depends on Java Virtual Machine (JVM) , Default value id false.
+
+
+
+            

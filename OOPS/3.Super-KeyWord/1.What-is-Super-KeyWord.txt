@@ -1,0 +1,15 @@
+Super Keyword :~ Super Keyword refers to the 
+object of Super Class , it is used when We want 
+to call the super class variable , method and
+constructor through Sub Class Object..
+
+Whenever the super class and Sub Class variable
+and method name both are same then it can be
+used only..
+
+To avoid the confusion between Super Class
+and Sub classes variables and methods that 
+have same name we should use super Keyword.
+
+
+
